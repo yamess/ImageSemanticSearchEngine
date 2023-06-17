@@ -120,6 +120,7 @@ Cargo.lock
 [Ss]cripts
 pyvenv.cfg
 .venv
+.env
 pip-selfcheck.json
 
 ### VisualStudio template
